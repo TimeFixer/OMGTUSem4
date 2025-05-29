@@ -1,1 +1,0 @@
-{"xgboost": [0, 1], "logistic": [false, true], "svc_poly": [true, true], "svc_rbf": [false, true]}
